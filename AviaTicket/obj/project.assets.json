@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kholo/Documents/Programming/JWTAuth.NET/AviaTicket/AviaTicket.csproj",
+      "projectUniqueName": "/Users/kholo/Documents/Programming/JWT/JWTAuth.NET/AviaTicket/AviaTicket.csproj",
       "projectName": "AviaTicket",
-      "projectPath": "/Users/kholo/Documents/Programming/JWTAuth.NET/AviaTicket/AviaTicket.csproj",
+      "projectPath": "/Users/kholo/Documents/Programming/JWT/JWTAuth.NET/AviaTicket/AviaTicket.csproj",
       "packagesPath": "/Users/kholo/.nuget/packages/",
-      "outputPath": "/Users/kholo/Documents/Programming/JWTAuth.NET/AviaTicket/obj/",
+      "outputPath": "/Users/kholo/Documents/Programming/JWT/JWTAuth.NET/AviaTicket/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kholo/.nuget/NuGet/NuGet.Config"

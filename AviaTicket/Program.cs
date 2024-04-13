@@ -21,12 +21,9 @@ namespace AviaTicket
 
             app.UseHttpsRedirection();
 
-
             app.MapGet("/ping", () => {
                 return "pong";
             });
-            // .WithName("Ping")
-            // .WithOpenApi();
 
             app.Run();
         }

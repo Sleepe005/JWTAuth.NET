@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L/gysUZd9JqdQybRV6ooailHESFfMYvDNo05XuQh7TcZKahrOie1jbwBI7H5ILKvlOkkhAoaR4LtqrJIMkN7qQ==",
+  "dgSpecHash": "mLYVGLxzvEElV4xEA0j++a5/qVt6VyZWn/l15ofAy+0xDgT5uwBcYAZP1z752WfJ0UGMlad2BrTwaR31H2i3DA==",
   "success": true,
-  "projectFilePath": "/Users/kholo/Documents/Programming/JWTAuth.NET/AviaTicket/AviaTicket.csproj",
+  "projectFilePath": "/Users/kholo/Documents/Programming/JWT/JWTAuth.NET/AviaTicket/AviaTicket.csproj",
   "expectedPackageFiles": [
     "/Users/kholo/.nuget/packages/microsoft.aspnetcore.openapi/8.0.3/microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
     "/Users/kholo/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
